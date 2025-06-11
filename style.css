@@ -1,0 +1,52 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    background-color: blue;
+    display: flex;
+}
+
+.main {
+    background-color: white;
+}
+
+.footer {
+    background-color: black;
+}
+
+img {
+    height: 80px;
+    width: 70px;
+    display: left;
+}
+
+.header h1 {
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+    display: right;
+}
+
+.main h1 {
+    color: orange;
+    text-align: center;
+}
+
+.main p {
+    padding: 10px;
+}
+
+.main img {
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 250px;
+    width: 250px;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
